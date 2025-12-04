@@ -27,3 +27,9 @@ Norway, coordinates 67.1555 15.9814
 
 ### Step 1 - I'm Vengeance
 Marty Makefile
+
+
+### Step 2 - Find his resume
+https://marty-sec.tiiny.site/
+
+PoC{Y0U_D1D_1T!!}
